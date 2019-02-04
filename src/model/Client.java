@@ -80,6 +80,8 @@ public class Client {
 		
 	}
 	
+	
+	
 	public void addWeek(double week) {
 		register.add(week);
 	}
